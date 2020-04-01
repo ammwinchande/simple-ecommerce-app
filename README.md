@@ -1,3 +1,3 @@
-# angular-5aagtz
+# angular first simple e-commerce app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-5aagtz)
+Grasping the fundamentals of Angular
